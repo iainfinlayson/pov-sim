@@ -10,4 +10,4 @@ services:
     build:
       context: ./flight-app-py
     ports:
-      - "5000:5000"
+      - "5001:5001"
